@@ -56,3 +56,13 @@ freeline.py
 freeline/
 freeline_project_description.json
 
+.gitignore
+.idea/
+SuperPrecio1.0.iml
+app/
+build.gradle
+gradle.properties
+gradle/
+gradlew
+gradlew.bat
+settings.gradle
